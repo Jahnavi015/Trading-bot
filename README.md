@@ -13,9 +13,13 @@ pip install python-binance
 python Trading_Bot.py
 
 #Example input
-Enter pair (e.g., BTCUSDT): BTCUSDT
+Enter pair: BTCUSDT
 BUY or SELL: BUY
-Enter order type (MARKET / LIMIT): LIMIT
+Order type: LIMIT
 Quantity: 0.001
+Limit price: 63000
 Enter limit price: 63000
+Order placed successfully!
+Order ID: 123456789 | Status: NEW
+
 
